@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e6941e7-a984-4c9e-adfe-cd549f4d378b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6317voAio8VEyIBCeg5VsbUE4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6941e7-a984-4c9e-adfe-cd549f4d378b" name="Default Changelist" comment="" />
+      <created>1601213999057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601213999057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="111" width="526" height="810" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601215691266">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="485" y="111" width="526" height="810" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1500.970@0.30.1500.970" timestamp="1601215691266" />
+    <state x="486" y="267" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601216495813">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="486" y="267" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1500.970@0.30.1500.970" timestamp="1601216495813" />
+    <state x="257" y="155" width="986" height="735" key="SettingsEditor" timestamp="1606647334547">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="257" y="155" width="986" height="735" key="SettingsEditor/0.30.1500.970@0.30.1500.970" timestamp="1606647334547" />
+    <state x="464" y="229" width="571" height="570" key="find.popup" timestamp="1601216252303">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="464" y="229" width="571" height="570" key="find.popup/0.30.1500.970@0.30.1500.970" timestamp="1601216252303" />
+    <state x="142" y="224" width="1211" height="596" key="new project wizard" timestamp="1602775314623">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="142" y="224" width="1211" height="596" key="new project wizard/0.30.1500.970@0.30.1500.970" timestamp="1602775314623" />
+    <state x="454" y="268" width="587" height="508" key="refactoring.ChangeSignatureDialog" timestamp="1601216229519">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="454" y="268" width="587" height="508" key="refactoring.ChangeSignatureDialog/0.30.1500.970@0.30.1500.970" timestamp="1601216229519" />
+    <state x="413" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1606647313467">
+      <screen x="0" y="30" width="1500" height="970" />
+    </state>
+    <state x="413" y="240" width="672" height="678" key="search.everywhere.popup/0.30.1500.970@0.30.1500.970" timestamp="1606647313467" />
+  </component>
+</project>
